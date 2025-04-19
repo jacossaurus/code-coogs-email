@@ -1,0 +1,6 @@
+From: no-reply@codecoogs.com
+To: kingjacob11@icloud.com
+Subject: Welcome to CodeCoogs!
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: base64
