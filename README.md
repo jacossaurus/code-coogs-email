@@ -1,6 +1,7 @@
 All that is needed is the credentials.json. Must be retrieved through Google Cloud Console with Gmail scope.
 
 Example (should be auto-generated):
+```json
 {
 	"type": "",
 	"project_id": "",
@@ -14,3 +15,4 @@ Example (should be auto-generated):
 	"client_x509_cert_url": "",
 	"universe_domain": "",
 }
+```
